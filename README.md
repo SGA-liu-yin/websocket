@@ -5,7 +5,7 @@ Gorilla WebSocket is a [Go](http://golang.org/) implementation of the
 
 [![Build Status](https://travis-ci.org/gorilla/websocket.svg?branch=master)](https://travis-ci.org/gorilla/websocket)
 [![GoDoc](https://godoc.org/github.com/gorilla/websocket?status.svg)](https://godoc.org/github.com/gorilla/websocket)
-
+[![Report](https://inspecode.rocro.com/badges/github.com/SGA-liu-yin/websocket/report?token=92zttEGfJOPRztC08jj71jwIhptrbR-FT2kVdMCEvOk&branch=master)](https://inspecode.rocro.com/reports/github.com/SGA-liu-yin/websocket/branch/master/summary)
 ### Documentation
 
 * [API Reference](http://godoc.org/github.com/gorilla/websocket)
